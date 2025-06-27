@@ -1,16 +1,16 @@
-## Hi there 👋
+# Diego Rodriguez
 
-<!--
-**diediegodie/diediegodie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente em transição de carreira para a área de tecnologia, com foco em desenvolvimento backend.
 
-Here are some ideas to get you started:
+Estudo de forma estruturada os principais fundamentos da área, incluindo:
+- Programação com Python
+- Controle de versão com Git e GitHub
+- Terminal Linux e Shell Script
+- Fundamentos da Internet, HTTP e APIs REST
+- Bancos de dados relacionais (SQL, PostgreSQL)
+- Início nos frameworks Flask e Django
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou construindo projetos para aplicar esses conhecimentos, que estarão disponíveis em breve neste perfil.
+
+LinkedIn: [linkedin.com/in/diegobackend](https://www.linkedin.com/in/diegobackend)
+
