@@ -8,9 +8,9 @@ Estudo de forma estruturada os principais fundamentos da área, incluindo:
 - Terminal Linux e Shell Script
 - Fundamentos da Internet, HTTP e APIs REST
 - Bancos de dados relacionais (SQL, PostgreSQL)
-- Início nos frameworks Flask e Django
+- Framework Flask
 
-Estou construindo projetos para aplicar esses conhecimentos, que estarão disponíveis em breve neste perfil.
+Estou construindo projetos para aplicar esses conhecimentos.
 
 LinkedIn: [linkedin.com/in/diegobackend](https://www.linkedin.com/in/diegobackend)
 
