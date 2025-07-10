@@ -6,7 +6,8 @@ Estudo de forma estruturada os principais fundamentos da área, incluindo:
 - Programação com Python
 - Git e GitHub
 - Terminal Linux e Shell Script
-- HTTP e APIs REST
+- HTTP & Fundamentos
+- APIs REST
 - SQL, PostgreSQL
 - Flask
 - HTML5 & CSS3
