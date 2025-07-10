@@ -4,11 +4,13 @@ Atualmente em transição de carreira para a área de tecnologia, com foco em de
 
 Estudo de forma estruturada os principais fundamentos da área, incluindo:
 - Programação com Python
-- Controle de versão com Git e GitHub
+- Git e GitHub
 - Terminal Linux e Shell Script
-- Fundamentos da Internet, HTTP e APIs REST
-- Bancos de dados relacionais (SQL, PostgreSQL)
-- Framework Flask
+- HTTP e APIs REST
+- SQL, PostgreSQL
+- Flask
+- HTML5 & CSS3
+- Inteligência Artificial
 
 Estou construindo projetos para aplicar esses conhecimentos.
 
