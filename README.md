@@ -1,19 +1,16 @@
 # Diego Rodriguez
 
-Atualmente em transição de carreira para a área de tecnologia, com foco em desenvolvimento backend.
+Backend development enthusiast, currently focused on building practical, real-world projects with Python and related technologies.
 
-Estudo de forma estruturada os principais fundamentos da área, incluindo:
-- Programação com Python
-- Git e GitHub
-- Terminal Linux e Shell Script
-- HTTP & Fundamentos
-- APIs REST
-- SQL, PostgreSQL
+My stack includes:
+- Python
 - Flask
-- HTML5 & CSS3
-- Inteligência Artificial
+- SQL & PostgreSQL
+- REST APIs
+- Git & GitHub
+- Linux & Shell scripting
+- HTML & CSS
 
-Estou construindo projetos para aplicar esses conhecimentos.
+Projects on this profile reflect my dedication to learning through hands-on experience.
 
-LinkedIn: [linkedin.com/in/diegobackend](https://www.linkedin.com/in/diegobackend)
-
+📫 [LinkedIn](https://www.linkedin.com/in/diegobackend)
