@@ -6,6 +6,7 @@ My stack includes:
 - Python
 - Flask
 - SQL & PostgreSQL
+- Docker
 - REST APIs
 - Git & GitHub
 - Linux & Shell scripting
