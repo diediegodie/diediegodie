@@ -10,7 +10,7 @@ My stack includes:
 - REST APIs
 - Git & GitHub
 - Linux & Shell scripting
-- HTML & CSS
+- HTML & CSS & JavaScript
 
 Projects on this profile reflect my dedication to learning through hands-on experience.
 
