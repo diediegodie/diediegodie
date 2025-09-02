@@ -1,6 +1,6 @@
 # Diego Rodriguez
 
-Full stack development enthusiast, currently focused on building practical, real-world projects with Python and related technologies.
+Fullstack development enthusiast, currently focused on building practical, real-world projects with Python and related technologies.
 
 My stack includes:
 - Python
