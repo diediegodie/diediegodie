@@ -5,6 +5,7 @@ Fullstack development enthusiast, currently focused on building practical, real-
 My stack includes:
 - Python
 - Flask
+- Flet
 - SQL & PostgreSQL
 - Docker
 - REST APIs
