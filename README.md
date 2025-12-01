@@ -1,4 +1,9 @@
-![# Diego Rodriguez
+![Currículo de Diego Rodriguez](curriculo_dev.png)
+
+<details>
+  <summary>Ver versão em texto</summary>
+
+# Diego Rodriguez
 
 Fullstack development enthusiast, currently focused on building practical, real-world projects with Python and related technologies.
 
@@ -15,4 +20,5 @@ My stack includes:
 
 Projects on this profile reflect my dedication to learning through hands-on experience.
 
-📫 [LinkedIn](https://www.linkedin.com/in/diegobackend)](curriculo_dev.png)
+📫 [LinkedIn](https://www.linkedin.com/in/diegobackend)
+</details>
