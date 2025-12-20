@@ -1,16 +1,8 @@
-![Currículo de Diego Rodriguez](curriculo_dev.png)
-
-<details>
-  <summary>Ver versão em texto</summary>
-
-# Diego Rodriguez
-
 Fullstack development enthusiast, currently focused on building practical, real-world projects with Python and related technologies.
 
 My stack includes:
 - Python
 - Flask
-- Flet
 - SQL & PostgreSQL
 - Docker
 - REST APIs
