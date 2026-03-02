@@ -1,17 +1,23 @@
-Backend development enthusiast, currently focused on building practical, real-world projects with Python and related technologies.
+Backend development enthusiast, currently focused on building practical, real-world projects with **Python** and related technologies.
 
-My stack includes:
+---
 
-Python
-FastAPI & Flask
-SQL & PostgreSQL
-Docker & CI/CD
-REST APIs
-Git & GitHub
-Linux & Shell scripting
+## My Stack
 
-Extras:  
-HTML & CSS & JavaScript  
+- **Python**
+- **FastAPI & Flask**
+- **SQL & PostgreSQL**
+- **Docker & CI/CD**
+- **REST APIs**
+- **Git & GitHub**
+- **Linux & Shell scripting**
+
+### Extras
+- HTML
+- CSS
+- JavaScript
+
+---
 
 Projects on this profile reflect my dedication to learning through hands-on experience.
 
