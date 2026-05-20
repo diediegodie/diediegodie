@@ -1,24 +1,14 @@
-Backend development enthusiast, currently focused on building practical, real-world projects with **Python** and related technologies.
+# Backend developer
+### Production-ready solutions with modern infrastructure.
 
----
+## Tech Stack
+- **Backend:** Python, FastAPI, Flask, SQLAlchemy  
+- **Databases:** Relational (PostgreSQL, SQLite)  
+- **Infra & DevOps:** Docker, Docker Compose, CI/CD (GitHub Actions)  
+- **APIs:** RESTful design, authentication & security (OAuth2, JWT, WebAuthn)  
+- **Testing & Quality:** Pytest, coverage, linting & formatting  
+- **Extras:** JavaScript, HTML, CSS, Linux & shell scripting  
 
-## My Stack
+Projects here reflect my focus on clean architecture, security, and deployment-ready code.
 
-- **Python**
-- **FastAPI & Flask**
-- **SQL & PostgreSQL**
-- **Docker & CI/CD**
-- **REST APIs**
-- **Git & GitHub**
-- **Linux & Shell scripting**
-
-### Extras
-- HTML
-- CSS
-- JavaScript
-
----
-
-Projects on this profile reflect my dedication to learning through hands-on experience.
-
-📫 [LinkedIn](https://www.linkedin.com/in/diegobackend/)
+📫 [LinkedIn](https://linkedin.com/in/diegobackend)
