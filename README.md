@@ -11,4 +11,4 @@
 
 Projects here reflect my focus on clean architecture, security, and deployment-ready code.
 
-📫 [LinkedIn](https://linkedin.com/in/diegobackend)
+• [LinkedIn](https://linkedin.com/in/diegobackend)
